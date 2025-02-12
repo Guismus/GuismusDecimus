@@ -7,9 +7,9 @@
 ## <center>✨ Who I am✨</center>
 #### <center>I'm Guillaume, and I'm currently studying at EPITECH, majoring an IT degree.</center>
 
-🔭 I’m currently working on my third year in Epitech
+🔭 I’m currently working on my fourth year in Epitech
 <br>
-🌱 Working on Rust and C++ projects.
+🌱 Working on Rust and C++ projects for heavy project. I also work on JavaScript for light project or webapp
 <br>
 👯 If you have any project ideas tell me more about it.
 
